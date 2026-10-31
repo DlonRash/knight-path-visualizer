@@ -60,3 +60,4 @@ Knight icon credited to **Victoruler** in the supplied image filename.
 - Non-numeric input is not handled.
 - Changing the start and target requires restarting the program.
 - The start-square highlight currently uses the target coordinates and needs correction.
+<img width="1158" height="711" alt="image" src="https://github.com/user-attachments/assets/5b83556b-7c2b-4167-8f28-bb11713f83c7" />
