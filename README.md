@@ -56,7 +56,6 @@ Displayed times measure individual search calls, excluding animation. They are i
 Knight icon credited to **Victoruler** in the supplied image filename.
 
 ## Current Limitations
-
 - Coordinates are entered through the terminal.
 - Non-numeric input is not handled.
 - Changing the start and target requires restarting the program.
